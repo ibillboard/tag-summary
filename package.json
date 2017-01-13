@@ -1,10 +1,10 @@
 {
   "name": "tag-summary",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "determine the summary of tag",
   "main": "index.js",
   "scripts": {
-    "test": "mocha --opts ./mocha.opts -w"
+    "test": "mocha --opts ./mocha.opts"
   },
   "repository": {
     "type": "git",
@@ -22,6 +22,6 @@
     "bluebird": "3.4.7"
   },
   "engines": {
-    "node": "~0.10.0"
+    "node": "~6.9.1"
   }
 }
